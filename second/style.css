@@ -1,0 +1,29 @@
+.blue {
+  height: 100vh;
+  width: 33.33%;
+  background-color: blue;
+  float: left;
+}
+.green {
+  height: 100vh;
+  width: 33.33%;
+  background-color: green;
+  float: left;
+}
+.yellow {
+  height: 100vh;
+  width: 33.33%;
+  background-color: yellow;
+  float: left;
+}
+.image {
+  height: 30vh;
+  width: 100%;
+  background-color: red;
+  margin-top: 70vh;
+}
+p {
+  font-size: 30px;
+  text-align: center;
+  padding-top: 15vh;
+}

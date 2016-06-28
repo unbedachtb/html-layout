@@ -1,0 +1,42 @@
+.header {
+  height: 10vh;
+  width: 100%;
+  background: gray;
+  padding: 20px 0 0px 20px;
+}
+.ham {
+  width: 4%;
+  height: 5vh;
+  background: blue;
+}
+.main {
+  width: 100%;
+  height: 30vh;
+  background: white;
+}
+.blue {
+  width: 100%;
+  height: 15vh;
+  background: blue;
+}
+.teal {
+  width: 100%;
+  height: 15vh;
+  background: teal;
+}
+.offYellow {
+  width: 100%;
+  height: 15vh;
+  background: green;
+}
+.yellow {
+  width: 100%;
+  height: 15vh;
+  background: yellow;
+}
+p {
+  text-align: center;
+  font-size: 40px;
+  color: blue;
+  padding-top: 80px;
+}

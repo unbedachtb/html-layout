@@ -1,0 +1,20 @@
+html {
+  background-color: darkgray;
+}
+.top {
+ height: 20vh;
+ width: 100%;
+ background-color: black;
+}
+.middle {
+  height: 90vh;
+  width: 60%;
+  background-color: white;
+  margin: auto;
+}
+.bottom {
+  height: 15vh;
+  width: 60%;
+  background-color: black;
+  margin: auto;
+}
